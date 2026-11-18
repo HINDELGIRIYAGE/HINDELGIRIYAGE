@@ -1,32 +1,110 @@
-<p align="center"><img src="assets/terminal-banner.svg" alt="Terminal: whoami, welcome to my little world" width="100%"></p>
+<!-- ============================================================
+     HERO — terminal banner (assets/terminal-banner.svg)
+     ============================================================ -->
+<p align="center">
+  <img src="assets/terminal-banner.svg" alt="Terminal: whoami — Oshani Hind, Aspiring Software Developer. Welcome to my little world." width="100%">
+</p>
 
-## Hi, I'm Oshani Hind
+<p align="center">
+  <code>Web Development</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Artificial Intelligence</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Robotics</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>UI/UX Design</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Software Engineering</code>
+</p>
 
-**Computer Science & AI student** · passionate about tech & robotics
+<br>
 
-I enjoy building interactive web experiences and clean, user-friendly interfaces — from UI design in Figma to working front-ends in HTML, CSS, JavaScript and React.
+## `> about_me`
 
----
+I'm **Oshani Hind**, a BSc Computer Science & Artificial Intelligence undergraduate at **NIBM, Sri Lanka**, and an aspiring software developer.
 
-### What I do
+What pulled me into computer science was the idea that code can make things *feel* alive — and AI pushed that curiosity further. Today most of my energy goes into **frontend development**: turning ideas into interfaces that are clean, responsive and genuinely easy to use. I usually start in Figma, think through the user's journey, then build it out with HTML, CSS, JavaScript and React.
 
-- **Front-end development** — responsive, interactive web interfaces with HTML, CSS, JavaScript and React
-- **UI/UX design** — designing clean, user-friendly screens in Figma before building them
-- **Creative coding** — particle systems, animations and computer-vision experiments in the browser
+I'm creative, curious and detail-oriented, and I treat every project as a chance to learn something new — from particle systems and hand-tracking in the browser to the fundamentals of machine learning.
 
-### Featured project
+```text
+> currently   : building interactive, user-friendly web interfaces
+> learning    : React ecosystem, AI / machine learning fundamentals
+> exploring   : robotics and computer vision on the web
+```
 
-**[Welcome to My Little World](https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD)** — my name written in stardust, controlled with hand gestures through the webcam (MediaPipe hand tracking, Canvas particle system, mini games).
-[Live demo](https://hindelgiriyage.github.io/WELCOME-TO-MY-little-WorlD/)
+<br>
 
-### Tech stack
+## `> tech_stack`
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td width="130"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,react,vite&theme=dark" alt="HTML, CSS, JavaScript, React, Vite" height="40"></td>
+  </tr>
+  <tr>
+    <td><b>Programming</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,js&theme=dark" alt="Python, JavaScript" height="40"></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark" alt="Git, GitHub, VS Code, Figma, npm" height="40"></td>
+  </tr>
+  <tr>
+    <td><b>Interests</b></td>
+    <td><code>Artificial Intelligence</code> <code>Machine Learning</code> <code>Robotics</code> <code>UI/UX Design</code></td>
+  </tr>
+</table>
+
+<br>
+
+## `> featured_projects`
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD">Welcome to My Little World</a></h3>
+      <p>An interactive web experience where a name is written in glowing stardust and controlled with hand gestures through the webcam — with a terminal-style intro, two themes and three built-in mini games.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Canvas 2D</code> <code>MediaPipe</code> <code>Web Audio API</code></p>
+      <p>
+        <a href="https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD">Repository</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="https://hindelgiriyage.github.io/WELCOME-TO-MY-little-WorlD/">Live demo</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- ADD MORE PROJECTS: copy this block inside the table above, then fill it in.
+  <tr>
+    <td>
+      <h3><a href="https://github.com/HINDELGIRIYAGE/REPO-NAME">Project Name</a></h3>
+      <p>One or two sentences on what it does and who it is for.</p>
+      <p><code>Tech</code> <code>Tech</code> <code>Tech</code></p>
+      <p><a href="https://github.com/HINDELGIRIYAGE/REPO-NAME">Repository</a></p>
+    </td>
+  </tr>
+-->
+
+<br>
+
+## `> github_stats`
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HINDELGIRIYAGE&show_icons=true&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4&icon_color=39ff88&ring_color=39ff88" alt="GitHub stats">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HINDELGIRIYAGE&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HINDELGIRIYAGE&hide_border=true&border_radius=10&background=0A0F0C&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=B6FFD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6F8F7E&stroke=1F6B45" alt="GitHub streak">
+</p>
+
+<br>
+
+## `> connect`
+
+<p>
+  <a href="https://github.com/HINDELGIRIYAGE"><img src="https://img.shields.io/badge/GitHub-0a0f0c?style=for-the-badge&logo=github&logoColor=39ff88" alt="GitHub"></a>
+  <!-- LinkedIn: replace YOUR-LINKEDIN-ID, then remove these comment marks
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0a0f0c?style=for-the-badge&logo=linkedin&logoColor=39ff88" alt="LinkedIn"></a>
+  -->
+  <!-- Email: replace you@example.com, then remove these comment marks
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0a0f0c?style=for-the-badge&logo=gmail&logoColor=39ff88" alt="Email"></a>
+  -->
+  <!-- Portfolio: replace the URL, then remove these comment marks
+  <a href="https://your-portfolio.example.com"><img src="https://img.shields.io/badge/Portfolio-0a0f0c?style=for-the-badge&logo=googlechrome&logoColor=39ff88" alt="Portfolio"></a>
+  -->
+</p>
+
+<p align="center"><sub><code>$ exit</code> — thanks for stopping by.</sub></p>
