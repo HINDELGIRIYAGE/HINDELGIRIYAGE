@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/welcome-banner.svg" alt="Welcome to my little world" width="100%"></p>
+<p align="center"><img src="assets/terminal-banner.svg" alt="Terminal: whoami, welcome to my little world" width="100%"></p>
 
 ## Hi, I'm Oshani Hind
 
