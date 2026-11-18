@@ -5,6 +5,10 @@
   <img src="assets/terminal-banner.svg" alt="Terminal: whoami — Oshani Hind, Aspiring Software Developer. Welcome to my little world." width="100%">
 </p>
 
+<div align="center">
+  <img src="https://api.dicebear.com/9.x/adventurer/svg?seed=Oshani&hair=long16&hairColor=0e0e0e&skinColor=f2d3b1&mouth=variant23&earringsProbability=100&glassesProbability=0&backgroundColor=ffd5e5&radius=50" width="200" alt="Developer girl avatar">
+</div>
+
 <p align="center">
   <code>Web Development</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Artificial Intelligence</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Robotics</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>UI/UX Design</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Software Engineering</code>
 </p>
@@ -108,3 +112,4 @@ I'm creative, curious and detail-oriented, and I treat every project as a chance
 </p>
 
 <p align="center"><sub><code>$ exit</code> — thanks for stopping by.</sub></p>
+<p align="center"><sub>Avatar: <a href="https://www.dicebear.com/styles/adventurer/">Adventurer</a> by Lisa Wischofsky, via DiceBear (CC BY 4.0)</sub></p>
