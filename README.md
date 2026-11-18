@@ -1,17 +1,17 @@
 <!-- ============================================================
-     HERO — terminal banner (assets/hero.svg)
+     HERO — terminal banner (assets/hero-v2.svg)
      ============================================================ -->
 <p align="center">
-  <img src="assets/hero.svg" alt="Terminal: Oshani Hind Elgiriyage, Aspiring Software Developer. Welcome to my little space." width="100%">
+  <img src="assets/hero-v2.svg" alt="Terminal: Oshani Hind Elgiriyage, Full-Stack Developer Intern. Welcome to my little space." width="100%">
 </p>
 
 <br>
 
 ## `> about_me`
 
-I'm **Oshani Hind Elgiriyage**, a BSc Computer Science & Artificial Intelligence undergraduate at **NIBM KIC**, Sri Lanka, and an aspiring software developer.
+I'm **Oshani Hind Elgiriyage**, a BSc Computer Science & Artificial Intelligence undergraduate at **NIBM KIC**, Sri Lanka, currently working as a **full-stack developer intern**.
 
-I focus on **frontend development** — designing clean, user-friendly interfaces in Figma and building them with HTML, CSS, JavaScript and React. I'm also interested in AI, robotics and software engineering, and I'm always learning something new.
+I work across the **full stack** — from designing clean, user-friendly interfaces in Figma and building them with HTML, CSS, JavaScript and React, to the logic and data behind them. I'm also interested in AI, robotics and software engineering, and I'm always learning something new.
 
 <br>
 
