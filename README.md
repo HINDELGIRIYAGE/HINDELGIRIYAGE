@@ -38,6 +38,24 @@ I work across the **full stack** — from designing clean, user-friendly interfa
 
 <br>
 
+## `> featured_project`
+
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD">Welcome to My Little World</a></h3>
+      <p>An interactive web experience where a name is written in glowing stardust and controlled with hand gestures through the webcam — with a terminal-style intro, two themes and three built-in mini games.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Canvas 2D</code> <code>MediaPipe</code> <code>Web Audio API</code></p>
+      <p>
+        <a href="https://hindelgiriyage.github.io/WELCOME-TO-MY-little-WorlD/"><b>Live demo</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+        <a href="https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD">Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ## `> connect`
 
 <p>
