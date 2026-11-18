@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="assets/glitch-girl.svg" alt="Pink glitch hooded coder at a laptop" width="260">
+</p>
+
+<p align="center">
   <code>Web Development</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Artificial Intelligence</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Robotics</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>UI/UX Design</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Software Engineering</code>
 </p>
 
