@@ -2,11 +2,17 @@
 
 ## Hi, I'm Oshani Hind
 
-**Computer Science & AI undergraduate at NIBM** · passionate about tech & robotics
+**Computer Science & AI student** · passionate about tech & robotics
 
 I enjoy building interactive web experiences and clean, user-friendly interfaces — from UI design in Figma to working front-ends in HTML, CSS, JavaScript and React.
 
 ---
+
+### What I do
+
+- **Front-end development** — responsive, interactive web interfaces with HTML, CSS, JavaScript and React
+- **UI/UX design** — designing clean, user-friendly screens in Figma before building them
+- **Creative coding** — particle systems, animations and computer-vision experiments in the browser
 
 ### Featured project
 
