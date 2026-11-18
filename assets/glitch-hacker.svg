@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+<defs>
+ <clipPath id="sliceA"><rect x="0" y="60" width="300" height="18"><animate attributeName="y" values="60;150;230;40;190;60" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/></rect></clipPath>
+ <clipPath id="sliceB"><rect x="0" y="200" width="300" height="10"><animate attributeName="y" values="200;90;120;250;70;200" dur="1.8s" repeatCount="indefinite" calcMode="discrete"/></rect></clipPath>
+</defs>
+<g style="mix-blend-mode:screen">
+ <g opacity=".85"><animateTransform attributeName="transform" type="translate" values="-5 0;-7 1;-4 0;-9 0;-5 0" dur="1.2s" repeatCount="indefinite" calcMode="discrete"/>
+ <path d="M150 28 C96 28 70 78 72 128 C74 158 80 176 70 196 L60 214 L240 214 L230 196 C220 176 226 158 228 128 C230 78 204 28 150 28 Z" fill="#00d0ff"/>
+ <path d="M60 212 C40 222 28 244 26 284 L274 284 C272 244 260 222 240 212 Z" fill="#00d0ff"/>
+ <path d="M150 78 C122 78 106 102 108 130 C110 158 128 180 150 180 C172 180 190 158 192 130 C194 102 178 78 150 78 Z" fill="#030605"/>
+ <path d="M118 96 C112 120 112 160 120 196 L128 196 C122 166 122 128 130 100 Z" fill="#00d0ff"/>
+ <path d="M182 96 C188 120 188 160 180 196 L172 196 C178 166 178 128 170 100 Z" fill="#00d0ff"/>
+ <path d="M124 92 C138 82 162 82 176 92 C166 90 156 96 150 104 C144 96 134 90 124 92 Z" fill="#00d0ff"/>
+ <rect x="92" y="198" width="116" height="80" rx="6" fill="#050907" stroke="#00d0ff" stroke-width="3"/>
+ <text x="150" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="700" fill="#00d0ff">&lt;/&gt;</text>
+ <rect x="80" y="276" width="140" height="7" rx="3" fill="#00d0ff"/>
+</g>
+ <g opacity=".85"><animateTransform attributeName="transform" type="translate" values="5 0;7 -1;4 0;9 0;5 0" dur="1.2s" repeatCount="indefinite" calcMode="discrete"/>
+ <path d="M150 28 C96 28 70 78 72 128 C74 158 80 176 70 196 L60 214 L240 214 L230 196 C220 176 226 158 228 128 C230 78 204 28 150 28 Z" fill="#ff2bd6"/>
+ <path d="M60 212 C40 222 28 244 26 284 L274 284 C272 244 260 222 240 212 Z" fill="#ff2bd6"/>
+ <path d="M150 78 C122 78 106 102 108 130 C110 158 128 180 150 180 C172 180 190 158 192 130 C194 102 178 78 150 78 Z" fill="#030605"/>
+ <path d="M118 96 C112 120 112 160 120 196 L128 196 C122 166 122 128 130 100 Z" fill="#ff2bd6"/>
+ <path d="M182 96 C188 120 188 160 180 196 L172 196 C178 166 178 128 170 100 Z" fill="#ff2bd6"/>
+ <path d="M124 92 C138 82 162 82 176 92 C166 90 156 96 150 104 C144 96 134 90 124 92 Z" fill="#ff2bd6"/>
+ <rect x="92" y="198" width="116" height="80" rx="6" fill="#050907" stroke="#ff2bd6" stroke-width="3"/>
+ <text x="150" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="700" fill="#ff2bd6">&lt;/&gt;</text>
+ <rect x="80" y="276" width="140" height="7" rx="3" fill="#ff2bd6"/>
+</g>
+ <g opacity=".7"><animateTransform attributeName="transform" type="translate" values="0 -3;2 -4;0 -2;-2 -3;0 -3" dur="1.6s" repeatCount="indefinite" calcMode="discrete"/>
+ <path d="M150 28 C96 28 70 78 72 128 C74 158 80 176 70 196 L60 214 L240 214 L230 196 C220 176 226 158 228 128 C230 78 204 28 150 28 Z" fill="#e6ff3c"/>
+ <path d="M60 212 C40 222 28 244 26 284 L274 284 C272 244 260 222 240 212 Z" fill="#e6ff3c"/>
+ <path d="M150 78 C122 78 106 102 108 130 C110 158 128 180 150 180 C172 180 190 158 192 130 C194 102 178 78 150 78 Z" fill="#030605"/>
+ <path d="M118 96 C112 120 112 160 120 196 L128 196 C122 166 122 128 130 100 Z" fill="#e6ff3c"/>
+ <path d="M182 96 C188 120 188 160 180 196 L172 196 C178 166 178 128 170 100 Z" fill="#e6ff3c"/>
+ <path d="M124 92 C138 82 162 82 176 92 C166 90 156 96 150 104 C144 96 134 90 124 92 Z" fill="#e6ff3c"/>
+ <rect x="92" y="198" width="116" height="80" rx="6" fill="#050907" stroke="#e6ff3c" stroke-width="3"/>
+ <text x="150" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="700" fill="#e6ff3c">&lt;/&gt;</text>
+ <rect x="80" y="276" width="140" height="7" rx="3" fill="#e6ff3c"/>
+</g>
+</g>
+<g>
+ <path d="M150 28 C96 28 70 78 72 128 C74 158 80 176 70 196 L60 214 L240 214 L230 196 C220 176 226 158 228 128 C230 78 204 28 150 28 Z" fill="#0f3d27"/>
+ <path d="M60 212 C40 222 28 244 26 284 L274 284 C272 244 260 222 240 212 Z" fill="#0f3d27"/>
+ <path d="M150 78 C122 78 106 102 108 130 C110 158 128 180 150 180 C172 180 190 158 192 130 C194 102 178 78 150 78 Z" fill="#030605"/>
+ <path d="M118 96 C112 120 112 160 120 196 L128 196 C122 166 122 128 130 100 Z" fill="#1f7a4d"/>
+ <path d="M182 96 C188 120 188 160 180 196 L172 196 C178 166 178 128 170 100 Z" fill="#1f7a4d"/>
+ <path d="M124 92 C138 82 162 82 176 92 C166 90 156 96 150 104 C144 96 134 90 124 92 Z" fill="#1f7a4d"/>
+ <rect x="92" y="198" width="116" height="80" rx="6" fill="#050907" stroke="#39ff88" stroke-width="3"/>
+ <text x="150" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="700" fill="#39ff88">&lt;/&gt;</text>
+ <rect x="80" y="276" width="140" height="7" rx="3" fill="#39ff88"/>
+</g>
+<g clip-path="url(#sliceA)"><g><animateTransform attributeName="transform" type="translate" values="0 0;-3 0;2 0;0 0;5 0;0 0;0 0;-2 0;0 0" dur="2.4s" repeatCount="indefinite" calcMode="discrete"/>
+ <path d="M150 28 C96 28 70 78 72 128 C74 158 80 176 70 196 L60 214 L240 214 L230 196 C220 176 226 158 228 128 C230 78 204 28 150 28 Z" fill="#1a5c3a"/>
+ <path d="M60 212 C40 222 28 244 26 284 L274 284 C272 244 260 222 240 212 Z" fill="#1a5c3a"/>
+ <path d="M150 78 C122 78 106 102 108 130 C110 158 128 180 150 180 C172 180 190 158 192 130 C194 102 178 78 150 78 Z" fill="#030605"/>
+ <path d="M118 96 C112 120 112 160 120 196 L128 196 C122 166 122 128 130 100 Z" fill="#39ff88"/>
+ <path d="M182 96 C188 120 188 160 180 196 L172 196 C178 166 178 128 170 100 Z" fill="#39ff88"/>
+ <path d="M124 92 C138 82 162 82 176 92 C166 90 156 96 150 104 C144 96 134 90 124 92 Z" fill="#39ff88"/>
+ <rect x="92" y="198" width="116" height="80" rx="6" fill="#050907" stroke="#39ff88" stroke-width="3"/>
+ <text x="150" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="700" fill="#39ff88">&lt;/&gt;</text>
+ <rect x="80" y="276" width="140" height="7" rx="3" fill="#39ff88"/>
+</g></g>
+<g clip-path="url(#sliceB)"><g transform="translate(8 0)">
+ <path d="M150 28 C96 28 70 78 72 128 C74 158 80 176 70 196 L60 214 L240 214 L230 196 C220 176 226 158 228 128 C230 78 204 28 150 28 Z" fill="#39ff88"/>
+ <path d="M60 212 C40 222 28 244 26 284 L274 284 C272 244 260 222 240 212 Z" fill="#39ff88"/>
+ <path d="M150 78 C122 78 106 102 108 130 C110 158 128 180 150 180 C172 180 190 158 192 130 C194 102 178 78 150 78 Z" fill="#030605"/>
+ <path d="M118 96 C112 120 112 160 120 196 L128 196 C122 166 122 128 130 100 Z" fill="#b6ffd4"/>
+ <path d="M182 96 C188 120 188 160 180 196 L172 196 C178 166 178 128 170 100 Z" fill="#b6ffd4"/>
+ <path d="M124 92 C138 82 162 82 176 92 C166 90 156 96 150 104 C144 96 134 90 124 92 Z" fill="#b6ffd4"/>
+ <rect x="92" y="198" width="116" height="80" rx="6" fill="#050907" stroke="#ffffff" stroke-width="3"/>
+ <text x="150" y="246" text-anchor="middle" font-family="Consolas, monospace" font-size="22" font-weight="700" fill="#ffffff">&lt;/&gt;</text>
+ <rect x="80" y="276" width="140" height="7" rx="3" fill="#ffffff"/>
+</g></g>
+<g fill="#ffffff" opacity=".9">
+ <rect x="0" y="0" width="0" height="2"><animate attributeName="width" values="0;0;120;0;0;80;0" dur="3s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="y" values="40;40;140;140;220;220;40" dur="3s" repeatCount="indefinite" calcMode="discrete"/><animate attributeName="x" values="0;0;150;150;40;40;0" dur="3s" repeatCount="indefinite" calcMode="discrete"/></rect>
+</g>
+</svg>
