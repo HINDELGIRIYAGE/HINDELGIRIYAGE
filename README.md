@@ -1,8 +1,8 @@
 <!-- ============================================================
-     HERO — terminal banner (assets/terminal-banner.svg)
+     HERO — terminal banner (assets/banner.svg)
      ============================================================ -->
 <p align="center">
-  <img src="assets/terminal-banner.svg" alt="Terminal: Oshani Hind Elgiriyage, Aspiring Software Developer. Welcome to my little space." width="100%">
+  <img src="assets/banner.svg" alt="Terminal: Oshani Hind Elgiriyage, Aspiring Software Developer. Welcome to my little space." width="100%">
 </p>
 
 <br>
