@@ -1,8 +1,8 @@
 <!-- ============================================================
-     HERO — terminal banner (assets/terminal-banner.svg)
+     HERO — terminal dashboard (assets/dashboard.svg)
      ============================================================ -->
 <p align="center">
-  <img src="assets/terminal-banner.svg" alt="Terminal: whoami — Oshani Hind, Aspiring Software Developer. Welcome to my little world." width="100%">
+  <img src="assets/dashboard.svg" alt="Terminal dashboard: Oshani Hind, aspiring software developer, BSc CS &amp; AI at NIBM Sri Lanka. Featured project: StardustSnap." width="100%">
 </p>
 
 <p align="center">
