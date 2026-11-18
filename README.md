@@ -2,28 +2,16 @@
      HERO — terminal banner (assets/terminal-banner.svg)
      ============================================================ -->
 <p align="center">
-  <img src="assets/terminal-banner.svg" alt="Terminal: whoami — Oshani Hind, Aspiring Software Developer. Welcome to my little world." width="100%">
-</p>
-
-<p align="center">
-  <code>Web Development</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Artificial Intelligence</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Robotics</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>UI/UX Design</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Software Engineering</code>
+  <img src="assets/terminal-banner.svg" alt="Terminal: Oshani Hind Elgiriyage, Aspiring Software Developer. Welcome to my little space." width="100%">
 </p>
 
 <br>
 
 ## `> about_me`
 
-I'm **Oshani Hind**, a BSc Computer Science & Artificial Intelligence undergraduate at **NIBM, Sri Lanka**, and an aspiring software developer.
+I'm **Oshani Hind Elgiriyage**, a BSc Computer Science & Artificial Intelligence undergraduate at **NIBM, Sri Lanka**, and an aspiring software developer.
 
-What pulled me into computer science was the idea that code can make things *feel* alive — and AI pushed that curiosity further. Today most of my energy goes into **frontend development**: turning ideas into interfaces that are clean, responsive and genuinely easy to use. I usually start in Figma, think through the user's journey, then build it out with HTML, CSS, JavaScript and React.
-
-I'm creative, curious and detail-oriented, and I treat every project as a chance to learn something new — from particle systems and hand-tracking in the browser to the fundamentals of machine learning.
-
-```text
-> currently   : building interactive, user-friendly web interfaces
-> learning    : React ecosystem, AI / machine learning fundamentals
-> exploring   : robotics and computer vision on the web
-```
+I focus on **frontend development** — designing clean, user-friendly interfaces in Figma and building them with HTML, CSS, JavaScript and React. I'm also interested in AI, robotics and software engineering, and I'm always learning something new.
 
 <br>
 
@@ -107,4 +95,3 @@ I'm creative, curious and detail-oriented, and I treat every project as a chance
   -->
 </p>
 
-<p align="center"><sub><code>$ exit</code> — thanks for stopping by.</sub></p>
