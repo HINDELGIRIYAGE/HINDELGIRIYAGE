@@ -9,7 +9,7 @@
 
 ## `> about_me`
 
-I'm **Oshani Hind Elgiriyage**, a BSc Computer Science & Artificial Intelligence undergraduate at **NIBM, Sri Lanka**, and an aspiring software developer.
+I'm **Oshani Hind Elgiriyage**, a BSc Computer Science & Artificial Intelligence undergraduate at **NIBM KIC**, Sri Lanka, and an aspiring software developer.
 
 I focus on **frontend development** — designing clean, user-friendly interfaces in Figma and building them with HTML, CSS, JavaScript and React. I'm also interested in AI, robotics and software engineering, and I'm always learning something new.
 
