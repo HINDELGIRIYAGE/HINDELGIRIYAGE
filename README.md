@@ -82,7 +82,7 @@ I'm creative, curious and detail-oriented, and I treat every project as a chance
 ## `> github_stats`
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HINDELGIRIYAGE&show_icons=true&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4&icon_color=39ff88&ring_color=39ff88" alt="GitHub stats">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HINDELGIRIYAGE&custom_title=Oshani%20Hind%27s%20GitHub%20Stats&show_icons=true&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4&icon_color=39ff88&ring_color=39ff88" alt="GitHub stats">
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HINDELGIRIYAGE&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4" alt="Most used languages">
 </p>
 
