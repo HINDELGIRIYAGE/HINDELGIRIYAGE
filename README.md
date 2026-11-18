@@ -11,7 +11,9 @@
 
 I'm **Oshani Hind Elgiriyage**, a BSc Computer Science & Artificial Intelligence undergraduate at **NIBM KIC**, Sri Lanka.
 
-I work across the **full stack** — from designing clean, user-friendly interfaces in Figma and building them with HTML, CSS, JavaScript and React, to the logic and data behind them. I'm also interested in AI, robotics and software engineering, and I'm always learning something new.
+I build web applications end to end — designing clean, user-friendly interfaces in Figma and bringing them to life with HTML, CSS, JavaScript and React, together with the backend logic and data behind them.
+
+Beyond the web, I'm interested in **artificial intelligence, machine learning, robotics** and **software engineering**. I enjoy turning ideas into polished, practical products, and I'm continuously growing my skills as a developer.
 
 <br>
 
