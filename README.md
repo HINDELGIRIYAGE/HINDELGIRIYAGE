@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/welcome-banner.svg" alt="Welcome to my little world" width="100%"></p>
+
 ## Hi, I'm Oshani Hind
 
 **Computer Science & AI undergraduate at NIBM** · passionate about tech & robotics
