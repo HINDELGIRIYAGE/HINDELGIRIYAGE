@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="assets/glitch-hacker.svg" alt="Glitching hooded coder at a laptop" width="260">
-</p>
-
-<p align="center">
   <img src="assets/dashboard.svg" alt="Terminal dashboard: Oshani Hind, aspiring software developer, BSc CS &amp; AI at NIBM Sri Lanka. Featured project: StardustSnap." width="100%">
 </p>
 
