@@ -38,48 +38,6 @@ I work across the **full stack** — from designing clean, user-friendly interfa
 
 <br>
 
-## `> featured_projects`
-
-<table>
-  <tr>
-    <td>
-      <h3><a href="https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD">Welcome to My Little World</a></h3>
-      <p>An interactive web experience where a name is written in glowing stardust and controlled with hand gestures through the webcam — with a terminal-style intro, two themes and three built-in mini games.</p>
-      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Canvas 2D</code> <code>MediaPipe</code> <code>Web Audio API</code></p>
-      <p>
-        <a href="https://github.com/HINDELGIRIYAGE/WELCOME-TO-MY-little-WorlD">Repository</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://hindelgiriyage.github.io/WELCOME-TO-MY-little-WorlD/">Live demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- ADD MORE PROJECTS: copy this block inside the table above, then fill it in.
-  <tr>
-    <td>
-      <h3><a href="https://github.com/HINDELGIRIYAGE/REPO-NAME">Project Name</a></h3>
-      <p>One or two sentences on what it does and who it is for.</p>
-      <p><code>Tech</code> <code>Tech</code> <code>Tech</code></p>
-      <p><a href="https://github.com/HINDELGIRIYAGE/REPO-NAME">Repository</a></p>
-    </td>
-  </tr>
--->
-
-<br>
-
-## `> github_stats`
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HINDELGIRIYAGE&custom_title=Oshani%20Hind%27s%20GitHub%20Stats&show_icons=true&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4&icon_color=39ff88&ring_color=39ff88" alt="GitHub stats">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HINDELGIRIYAGE&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HINDELGIRIYAGE&hide_border=true&border_radius=10&background=0A0F0C&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=B6FFD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6F8F7E&stroke=1F6B45" alt="GitHub streak">
-</p>
-
-<br>
-
 ## `> connect`
 
 <p>
@@ -95,3 +53,17 @@ I work across the **full stack** — from designing clean, user-friendly interfa
   -->
 </p>
 
+<br>
+
+## `> github_stats`
+
+<p align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=HINDELGIRIYAGE&custom_title=Oshani%20Hind%27s%20GitHub%20Stats&show_icons=true&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4&icon_color=39ff88&ring_color=39ff88" alt="GitHub stats">
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HINDELGIRIYAGE&layout=compact&langs_count=6&hide_border=true&border_radius=10&bg_color=0a0f0c&title_color=39ff88&text_color=b6ffd4" alt="Most used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HINDELGIRIYAGE&hide_border=true&border_radius=10&background=0A0F0C&ring=39FF88&fire=39FF88&currStreakLabel=39FF88&sideLabels=B6FFD4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6F8F7E&stroke=1F6B45" alt="GitHub streak">
+</p>
+
+<br>
